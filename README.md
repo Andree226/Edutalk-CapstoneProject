@@ -38,9 +38,9 @@
 ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/4d6d6a83-5721-4ba9-a56c-d74f6abc7801)
 
 # Model Summary
-blob; ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/09bbd324-ffc0-4bc5-a383-dd90938b21b4)
+bull; ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/09bbd324-ffc0-4bc5-a383-dd90938b21b4)
 
-blob; ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/5c26eeaa-5596-4563-90cc-b3ca6dd3dac1)
+bull; ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/5c26eeaa-5596-4563-90cc-b3ca6dd3dac1)
 
 
 # Model Evaluation
@@ -51,4 +51,4 @@ blob; ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/13511
 ### 3. Video classification
 
 # Prediction with unseen video data
-blob; 
+bull; 

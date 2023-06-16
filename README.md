@@ -25,7 +25,7 @@
 ### 1. Mentor recommender 
 ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/83e59f69-1f14-4bad-aee6-ddb5e9186833)
 ### 2. Video Recommender
-![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/65c14c51-1b99-4f70-aa3a-d1a583afae3f)
+![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/9bed9334-092c-4935-b483-74e2ce53fda8)
 ### 3. Video Classification
 ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/7c718d7f-e110-4d83-80ba-9d3c0b32840f)
 

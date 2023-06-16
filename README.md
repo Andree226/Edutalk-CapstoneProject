@@ -2,11 +2,12 @@
 
 ## Machine Learning Progress
 1. Creating and searching Dataset
-2. Creating our own model and improving pretrained model
-3. Evaluating the loss and accuracy of the model
-4. Deploying the model
+2. Learn and analyze the dataset
+3. Creating our own model and improving pretrained model
+4. Evaluating the loss and accuracy of the model
+5. Deploying the model
 
-## Machine Learning Objective
+## Machine Learning Objectives
 1. Creating model for mentor recommender system
 2. Creating model for video recommender system
 3. Creating model for video classification to generate uploaded video's tag
@@ -37,8 +38,9 @@
 ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/4d6d6a83-5721-4ba9-a56c-d74f6abc7801)
 
 # Model Summary
-![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/09bbd324-ffc0-4bc5-a383-dd90938b21b4)
-![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/5c26eeaa-5596-4563-90cc-b3ca6dd3dac1)
+blob; ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/09bbd324-ffc0-4bc5-a383-dd90938b21b4)
+
+blob; ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/5c26eeaa-5596-4563-90cc-b3ca6dd3dac1)
 
 
 # Model Evaluation

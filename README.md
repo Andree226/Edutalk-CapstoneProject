@@ -26,7 +26,7 @@
 ### 2. Video Recommender
 ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/65c14c51-1b99-4f70-aa3a-d1a583afae3f)
 ### 3. Video Classification
-![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/7c68d905-2da3-421f-9f4a-76c9b83be3ff)
+![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/7c718d7f-e110-4d83-80ba-9d3c0b32840f)
 
 # Model Architecture
 ### 1. Mentor recommender
@@ -35,6 +35,11 @@
 ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/1ef9e21a-2280-4ebf-ba0d-2eb403db0b94)
 ### 3. Video classification
 ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/4d6d6a83-5721-4ba9-a56c-d74f6abc7801)
+
+# Model Summary
+![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/09bbd324-ffc0-4bc5-a383-dd90938b21b4)
+![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/5c26eeaa-5596-4563-90cc-b3ca6dd3dac1)
+
 
 # Model Evaluation
 ### 1. Mentor recommender

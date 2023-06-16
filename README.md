@@ -52,6 +52,7 @@
 
 # Prediction with unseen video data
 Used video : [Download.mp4](https://github.com/Andree226/Edutalk-CapstoneProject/blob/main/Download.mp4)
+
 &bull; ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/2df8a89a-7477-41fe-ad89-4d0d4fc00ac6)
 
 > Copyright video to all of the video owners/creator

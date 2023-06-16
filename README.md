@@ -1,12 +1,12 @@
-#Edutalk-CapstoneProject
+# Edutalk-CapstoneProject
 
-##Machine Learning Progress
+## Machine Learning Progress
 1. Creating and Searching Dataset
 2. Creating our own model and Improving pretrained model
 3. Evaluating the loss and accuracy of the model
 4. Deploying the model
 
-##Machine Learning Objective
+## Machine Learning Objective
 1. Creating model for mentor recommender system
 2. Creating model for video recommender system
 3. Creating model for video classification to generate uploaded video's tag

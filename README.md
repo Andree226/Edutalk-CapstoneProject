@@ -12,6 +12,8 @@
 3. Creating model for video classification to generate uploaded video's tag
 
 # Dataset
-&bull; [mentor_data.csv](https://github.com/Andree226/Edutalk-CapstoneProject/blob/main/mentor_data.csv)(\n)
+&bull; [mentor_data.csv](https://github.com/Andree226/Edutalk-CapstoneProject/blob/main/mentor_data.csv)
+
 &bull; [user_data.csv](https://github.com/Andree226/Edutalk-CapstoneProject/blob/main/user_data.csv)
+
 &bull; [random_data.csv](https://github.com/Andree226/Edutalk-CapstoneProject/blob/main/random_data.csv)

@@ -21,6 +21,11 @@
 
 &bull; 393 Video files for training video classification model
 
+# Data Learning
+![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/2be08767-85b4-49d4-81e0-1b2452ae23a0)
+![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/f62426bb-83a4-4ef6-bf7b-428f37345cc9)
+![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/3b87e94f-c7dd-4042-bf4b-bac59b6f2a58)
+
 # Preprocessing
 ### 1. Mentor recommender 
 ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/83e59f69-1f14-4bad-aee6-ddb5e9186833)
@@ -56,4 +61,4 @@ Used video : [Download.mp4](https://github.com/Andree226/Edutalk-CapstoneProject
 
 &bull; ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/2df8a89a-7477-41fe-ad89-4d0d4fc00ac6)
 
-> Copyright video to all of the video owners/creator
+> Copyrighted video to all of the video owners/creators

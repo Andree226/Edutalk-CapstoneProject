@@ -49,6 +49,7 @@
 ### 2. Video recommender
 ![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/2ac98f5b-2a0c-463e-b5db-7d6d9bbd0292)
 ### 3. Video classification
+![image](https://github.com/Andree226/Edutalk-CapstoneProject/assets/135110014/76ec0e8b-0cf6-47c7-8dca-becd7368bef1)
 
 # Prediction with unseen video data
 Used video : [Download.mp4](https://github.com/Andree226/Edutalk-CapstoneProject/blob/main/Download.mp4)

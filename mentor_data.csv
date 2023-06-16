@@ -1,0 +1,101 @@
+mentor_id,username,age,gender,location,expertise,years_experience,rating,num_mentees
+20001,Layla_Fisher,27,female,Jakarta,literature,7,1.6,50
+20002,Elizabeth_Cooper,45,female,Jakarta,personal development,30,3.8,33
+20003,James_Watson,25,male,Surabaya,science,11,3.4,16
+20004,Henry_Murphy,27,female,Bandung,science,28,4.3,6
+20005,James_Morris,27,female,Bandung,personal development,13,4.4,33
+20006,James_Cooper,32,female,Bandung,math,7,2.9,94
+20007,Grace_Taylor,22,female,Surabaya,history,13,3.4,43
+20008,Chloe_Taylor,30,female,Jakarta,personal development,15,3.7,44
+20009,Emily_Rogers,45,female,Bandung,history,16,1.0,47
+20010,Benjamin_White,37,female,Medan,personal development,12,3.0,19
+20011,Ethan_Price,37,female,Jakarta,history,9,2.0,40
+20012,Joshua_Bryant,39,female,Jakarta,personal development,27,2.3,22
+20013,Daniel_Long,23,male,Bandung,science,7,4.0,40
+20014,Gabriel_Foster,49,male,Surabaya,literature,11,3.9,0
+20015,Owen_Sanders,50,female,Surabaya,science,4,2.6,7
+20016,Victoria_Morris,38,male,Bandung,science,6,4.5,14
+20017,Thomas_Long,45,female,Medan,history,15,2.4,83
+20018,Amelia_Hall,32,male,Surabaya,economics,17,3.0,18
+20019,Joshua_Price,46,male,Yogyakarta,history,29,4.5,62
+20020,Elizabeth_Watson,29,male,Jakarta,history,19,1.2,95
+20021,Audrey_Morgan,50,male,Yogyakarta,personal development,4,3.7,84
+20022,Elizabeth_Rogers,22,female,Yogyakarta,literature,26,4.3,76
+20023,Abigail_Morgan,50,female,Medan,personal development,16,3.6,81
+20024,Joseph_Brown,36,male,Yogyakarta,economics,18,5.0,76
+20025,Emma_Thomas,50,female,Medan,personal development,27,3.1,27
+20026,Victoria_King,47,female,Bandung,math,19,2.6,100
+20027,Daniel_Smith,35,male,Jakarta,science,10,3.7,89
+20028,Michael_Hall,33,male,Surabaya,programming,12,4.3,74
+20029,Matthew_Anderson,41,female,Medan,economics,19,1.1,21
+20030,Harper_Murphy,45,male,Medan,math,17,4.6,14
+20031,Joshua_James,41,male,Yogyakarta,science,26,5.0,71
+20032,Amelia_Rogers,32,male,Jakarta,programming,23,1.4,63
+20033,Amelia_Bryant,34,male,Surabaya,programming,30,2.1,33
+20034,Daniel_Walker,39,male,Yogyakarta,economics,6,4.1,54
+20035,Zoe_Rogers,38,male,Medan,math,8,3.0,76
+20036,Alexander_Hamilton,35,male,Medan,programming,18,3.7,59
+20037,Harper_Brooks,40,male,Bandung,science,29,1.6,65
+20038,Elizabeth_Morgan,44,male,Bandung,personal development,5,3.2,17
+20039,Joseph_Morgan,42,female,Surabaya,personal development,18,1.6,87
+20040,Thomas_Clark,26,female,Medan,history,12,2.3,66
+20041,Joshua_Murphy,22,female,Yogyakarta,literature,27,4.0,59
+20042,Madison_Wood,28,female,Surabaya,math,10,1.1,16
+20043,Daniel_Young,38,male,Medan,literature,25,2.5,57
+20044,Audrey_Miller,33,female,Surabaya,math,26,4.6,73
+20045,Andrew_Ward,26,female,Surabaya,programming,17,2.2,69
+20046,Joshua_Lewis,37,male,Medan,programming,4,3.3,38
+20047,William_Morris,45,male,Jakarta,literature,16,4.8,14
+20048,Charlotte_Griffin,32,female,Medan,economics,29,3.3,12
+20049,Evelyn_Bryant,40,male,Medan,literature,11,2.8,78
+20050,Andrew_Rivera,30,male,Surabaya,math,11,3.9,74
+20051,Emma_Reed,37,male,Surabaya,literature,22,3.3,82
+20052,Samuel_James,33,female,Jakarta,literature,13,3.9,47
+20053,Olivia_Hall,36,male,Bandung,personal development,3,1.0,84
+20054,David_Howard,41,female,Medan,economics,22,3.4,78
+20055,Thomas_Foster,47,male,Bandung,literature,10,3.4,54
+20056,John_Griffin,41,female,Surabaya,economics,14,2.1,81
+20057,Layla_Rivera,34,male,Jakarta,literature,4,3.9,6
+20058,Matthew_Wood,31,female,Bandung,programming,4,1.0,99
+20059,Christopher_Russell,26,female,Yogyakarta,math,6,3.4,100
+20060,Harper_Sullivan,35,female,Medan,math,14,1.7,77
+20061,Amelia_Lewis,42,female,Bandung,economics,25,4.8,93
+20062,William_Baker,48,male,Jakarta,personal development,6,3.1,49
+20063,Daniel_Price,39,female,Medan,literature,10,1.6,41
+20064,Joshua_Foster,37,male,Bandung,literature,22,4.1,19
+20065,Samuel_Allen,38,female,Jakarta,personal development,20,1.5,51
+20066,Zoe_Wood,23,female,Jakarta,personal development,4,3.3,84
+20067,Christopher_Bryant,23,male,Bandung,literature,13,4.5,35
+20068,Michael_Taylor,48,female,Yogyakarta,math,28,1.3,17
+20069,William_Hall,38,male,Medan,programming,7,1.0,47
+20070,Avery_Reed,23,female,Surabaya,programming,30,2.9,41
+20071,Samuel_Price,24,female,Surabaya,programming,16,1.3,72
+20072,Samuel_Hill,24,female,Bandung,economics,8,4.5,27
+20073,Matthew_Reed,32,female,Surabaya,literature,14,4.9,79
+20074,Christopher_Harris,34,female,Bandung,literature,28,1.2,43
+20075,Michael_Bennett,32,male,Bandung,science,4,2.8,26
+20076,Owen_Bennett,24,male,Surabaya,literature,7,3.4,12
+20077,Benjamin_Morris,29,male,Medan,literature,24,3.3,81
+20078,Evelyn_King,21,female,Bandung,economics,17,1.4,81
+20079,Samuel_Rogers,23,female,Bandung,science,24,3.7,55
+20080,Avery_Anderson,49,male,Yogyakarta,personal development,17,4.2,99
+20081,Jack_Morgan,43,male,Jakarta,math,6,2.3,50
+20082,Abigail_Taylor,29,female,Surabaya,personal development,14,4.5,69
+20083,Victoria_Baker,50,female,Bandung,science,20,2.7,36
+20084,Thomas_Cooper,48,male,Jakarta,programming,19,2.0,49
+20085,Lily_Walker,27,male,Yogyakarta,economics,26,3.8,20
+20086,Matthew_Peterson,43,female,Jakarta,personal development,18,4.5,56
+20087,Joshua_White,40,female,Medan,personal development,11,3.2,98
+20088,Owen_Cooper,43,female,Jakarta,math,17,4.5,76
+20089,Victoria_Howard,42,female,Medan,economics,21,3.9,72
+20090,Elizabeth_Jackson,32,male,Jakarta,science,15,2.2,48
+20091,Joshua_Brooks,27,male,Medan,programming,28,2.5,57
+20092,David_Sanders,29,female,Yogyakarta,literature,22,2.9,26
+20093,Abigail_Johnson,45,female,Surabaya,programming,5,4.4,23
+20094,Evelyn_Kelly,27,female,Jakarta,personal development,24,3.5,94
+20095,John_Taylor,43,female,Yogyakarta,math,5,3.1,53
+20096,DanielAdams,48,male,Surabaya,history,18,5.0,74
+20097,John_Hamilton,28,female,Jakarta,math,21,1.9,21
+20098,Ethan_Taylor,40,female,Medan,economics,5,4.5,77
+20099,Joseph_Johnson,36,female,Medan,literature,25,2.2,67
+20100,Joshua_Russell,47,female,Bandung,economics,15,3.0,10

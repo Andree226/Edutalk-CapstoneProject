@@ -1,0 +1,101 @@
+user_id,username,age,gender,location,interest,registration_date
+10001,Ratna_Nugroho,18,female,Jakarta,science,2022-02-06
+10002,Yulia_Prasetya,14,female,Jakarta,programming,2022-12-27
+10003,Yani_Nugroho,11,male,Surabaya,economics,2022-10-17
+10004,Faisal_Prasetyo,17,male,Yogyakarta,personal development,2023-04-14
+10005,Indra_Rahayu,7,male,Jakarta,history,2023-02-26
+10006,Dewi_Wibowo,17,male,Bandung,programming,2023-02-28
+10007,Dewi_Susanto,18,male,Medan,economics,2023-03-31
+10008,Nurul_Fitriani,13,female,Bandung,programming,2022-10-23
+10009,Agus_Purnomo,15,female,Bandung,history,2022-02-01
+10010,Budi_Utomo,10,female,Jakarta,math,2022-04-25
+10011,Ayu_Nugraha,11,male,Surabaya,science,2022-05-22
+10012,Bayu_Setiawan,6,male,Surabaya,literature,2023-05-14
+10013,Denny_Santoso,19,male,Jakarta,economics,2022-03-25
+10014,Rizky_Wijaya,15,male,Surabaya,economics,2023-04-23
+10015,Aulia_Purnomo,11,male,Yogyakarta,science,2022-12-19
+10016,Wahyu_Hadi,13,male,Surabaya,math,2022-03-08
+10017,Hendra_Pratama,13,female,Surabaya,history,2023-05-06
+10018,Joko_Nugraha,7,female,Bandung,literature,2022-01-03
+10019,Dwi_Nugraha,13,female,Bandung,economics,2023-02-20
+10020,Agus_Sari,9,female,Medan,personal development,2022-11-30
+10021,Yuni_Kurniawan,11,male,Medan,history,2022-04-02
+10022,Agus_Wijaya,6,female,Bandung,economics,2022-08-19
+10023,Eko_Wijaya,19,male,Surabaya,personal development,2022-07-30
+10024,Maya_Nugroho,13,female,Yogyakarta,economics,2023-06-05
+10025,Mira_Santoso,17,female,Surabaya,literature,2023-06-03
+10026,Rini_Santoso,18,female,Medan,programming,2023-03-14
+10027,DinaSutanto,13,male,Bandung,history,2022-09-23
+10028,Dewi_Nugroho,20,female,Bandung,personal development,2023-01-13
+10029,Fitri_Purnomo,15,male,Bandung,personal development,2022-09-12
+10030,Budi_Sari,8,male,Jakarta,science,2022-06-29
+10031,Dedy_Wijaya,13,male,Bandung,personal development,2022-10-26
+10032,Ratna_Suryanto,6,female,Jakarta,programming,2022-03-24
+10033,Rina_Putri,17,male,Surabaya,economics,2022-04-02
+10034,Yuni_Susanto,20,female,Yogyakarta,literature,2022-07-06
+10035,Rudi_Rahayu,9,female,Bandung,literature,2022-02-18
+10036,Hendra_Prasetyo,20,female,Bandung,economics,2022-05-30
+10037,Aulia_Setiawan,21,male,Surabaya,programming,2022-07-05
+10038,Novi_Prasetya,13,male,Yogyakarta,math,2022-10-26
+10039,Sari_Anggraini,21,female,Jakarta,literature,2022-03-12
+10040,Dewi_Utami,17,female,Medan,math,2022-07-27
+10041,Maya_Sari,15,female,Bandung,literature,2022-08-09
+10042,Mira_Pratiwi,20,female,Jakarta,economics,2022-03-18
+10043,BudiPrasetyo,7,female,Surabaya,science,2022-01-03
+10044,Mira_Wulandari,20,female,Medan,literature,2022-10-28
+10045,Dian_Santoso,6,male,Jakarta,economics,2023-01-05
+10046,Nita_Anggraini,11,female,Bandung,history,2022-10-04
+10047,Dian_Wibowo,16,female,Yogyakarta,history,2022-05-01
+10048,Adi_Budiman,9,female,Surabaya,personal development,2022-02-08
+10049,Sri_Indah,16,male,Yogyakarta,economics,2022-07-12
+10050,Sri_Susanto,21,male,Bandung,programming,2022-07-03
+10051,Hendra_Sari,9,male,Bandung,programming,2023-03-10
+10052,Dian_Putri,8,female,Bandung,math,2023-02-16
+10053,Bambang_Anggraini,15,female,Medan,economics,2022-08-12
+10054,Rudi_Kusumo,13,female,Surabaya,economics,2022-07-23
+10055,Rini_Nugraha,21,male,Yogyakarta,personal development,2022-02-25
+10056,Ahmad_Cahyono,16,female,Yogyakarta,economics,2023-03-17
+10057,Rika_Sutanto,14,female,Surabaya,literature,2022-12-06
+10058,Novi_Purnomo,14,female,Jakarta,math,2022-11-11
+10059,Rika_Kurniawan,6,male,Bandung,math,2022-02-15
+10060,Fitri_Yulianto,12,female,Bandung,history,2022-01-29
+10061,Yulia_Wibisono,21,female,Jakarta,science,2022-02-19
+10062,YaniKusuma,16,female,Jakarta,economics,2022-04-06
+10063,Agus_Wibowo,12,female,Medan,economics,2022-07-01
+10064,Dedy_Susanto,14,female,Surabaya,science,2022-06-16
+10065,Fitri_Sari,19,male,Bandung,personal development,2022-06-28
+10066,Dedy_Wulandari,10,female,Surabaya,science,2022-11-06
+10067,Maulana_Kusuma,19,female,Jakarta,science,2022-07-14
+10068,Novi_Setiawan,19,male,Jakarta,science,2022-04-18
+10069,Bambang_Kusuma,10,female,Yogyakarta,math,2023-01-14
+10070,Ade_Sari,11,male,Yogyakarta,personal development,2022-09-23
+10071,Yuni_Nugraha,17,female,Medan,personal development,2022-11-15
+10072,Nurul_Sari,12,female,Jakarta,programming,2022-12-18
+10073,Budi_Dewi,18,female,Jakarta,literature,2023-03-24
+10074,Siti_Wibowo,15,male,Bandung,science,2022-09-01
+10075,Sari_Wulandari,20,female,Yogyakarta,history,2023-05-26
+10076,Yuni_Purnomo,6,male,Yogyakarta,history,2023-05-01
+10077,Rika_Budiman,8,male,Jakarta,history,2022-05-13
+10078,Sari_Indah,20,female,Yogyakarta,science,2022-11-20
+10079,Adi_Sari,21,male,Bandung,programming,2023-04-22
+10080,Faisal_Setiawan,10,male,Yogyakarta,programming,2023-02-25
+10081,Dedy_Hadi,20,male,Medan,math,2022-12-28
+10082,Faisal_Nugraha,12,male,Surabaya,history,2022-07-21
+10083,Yulia_Pratama,6,male,Jakarta,math,2022-08-23
+10084,Yulia_Yulianto,9,female,Bandung,economics,2023-04-26
+10085,Nita_Cahyono,8,male,Jakarta,personal development,2022-10-14
+10086,Nurul_Nugroho,21,male,Jakarta,science,2023-02-24
+10087,Dwi_Kusuma,10,female,Jakarta,history,2022-11-15
+10088,Retno_Wijaya,7,female,Surabaya,programming,2022-06-05
+10089,Hendra_Wibowo,19,female,Medan,programming,2022-12-20
+10090,Dian_Wulandari,8,female,Bandung,literature,2022-06-20
+10091,Yulia_Purnomo,19,male,Yogyakarta,personal development,2023-05-01
+10092,Ade_Wijaya,14,female,Jakarta,science,2022-05-22
+10093,EkoSuryanto,12,female,Bandung,programming,2022-06-20
+10094,Dewi_Anggraini,8,female,Medan,science,2023-04-02
+10095,Novi_Sutanto,19,female,Jakarta,programming,2023-04-01
+10096,Bambang_Sari,14,male,Yogyakarta,economics,2022-02-25
+10097,Yuli_Susanto,20,female,Surabaya,programming,2023-03-14
+10098,Yulia_Nugraha,16,female,Surabaya,math,2022-07-23
+10099,Dian_Kusuma,6,female,Jakarta,science,2022-10-17
+10100,Yuli_Lestari,6,male,Yogyakarta,personal development,2022-08-06

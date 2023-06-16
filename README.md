@@ -1,8 +1,17 @@
-# Edutalk-CapstoneProject
+#Edutalk-CapstoneProject
 
-Machine Learning Workflow
+##Machine Learning Progress
+1. Creating and Searching Dataset
+2. Creating our own model and Improving pretrained model
+3. Evaluating the loss and accuracy of the model
+4. Deploying the model
 
-1. Mencari dataset - Short video yang berkaitan dengan tutoring 
-2. Mengkonversi video yang ada menjadi audio
-3. Audio di klasifikasikan menggunakan AudioClassification.py
-4. Membuat model untuk mencari kesamaan pola pada audio tersebut.
+##Machine Learning Objective
+1. Creating model for mentor recommender system
+2. Creating model for video recommender system
+3. Creating model for video classification to generate uploaded video's tag
+
+#Dataset
+&bull; [mentor_data.csv](https://github.com/Andree226/Edutalk-CapstoneProject/blob/main/mentor_data.csv)
+&bull; [user_data.csv](https://github.com/Andree226/Edutalk-CapstoneProject/blob/main/user_data.csv)
+&bull; [random_data.csv](https://github.com/Andree226/Edutalk-CapstoneProject/blob/main/random_data.csv)
